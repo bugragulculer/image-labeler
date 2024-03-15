@@ -1,0 +1,28 @@
+.toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: calc(100% - 1rem);
+  gap: 1rem;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  margin: 1rem 2rem;
+}
+
+.toolbar-buttons-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.size-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.active-tool {
+  background-color: #4096ff; /* Green background */
+  color: white; /* White text */
+  border: none; /* Remove border */
+}
