@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a web-based application for creating and editing images using various drawing tools. It allows users to upload a background image, draw on top of it, add labels, and export the edited image.
+Image Labeler is a web-based application for creating and editing images using various drawing tools. It allows users to upload a background image, draw on top of it, add labels, and export the edited image.
 
 ## Features
 
@@ -16,8 +16,8 @@ This project is a web-based application for creating and editing images using va
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd project-directory`
+1. Clone the repository: `git clone https://github.com/bugragulculer/image-labeler.git`
+2. Navigate to the project directory: `cd image-labeler`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
@@ -37,6 +37,10 @@ To run the project locally, follow these steps:
 - Ant Design
 - JavaScript (ES6)
 - HTML5 Canvas
+
+## Contributors
+
+- [Bugra Gulculer](https://github.com/bugragulculer)
 
 ## License
 
