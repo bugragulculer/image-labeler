@@ -38,11 +38,6 @@ To run the project locally, follow these steps:
 - JavaScript (ES6)
 - HTML5 Canvas
 
-## Contributors
-
-- [Contributor Name](https://github.com/contributor)
-- [Contributor Name](https://github.com/contributor)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
